@@ -115,7 +115,6 @@ fun main() {
     }
 
 
-
     println("\nSeu Personagem foi criado:")
     println("-----------------------------------------")
     println("Nome: " + personagem.nome)
